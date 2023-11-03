@@ -1,3 +1,7 @@
+# Note: If your work uses this algorithm or makes improvements based on it, please be sure to cite this paper. Thank you for your cooperation.
+
+# 注意：如果您的工作用到了本算法，或者基于本算法进行了改进，请您务必引用本论文，谢谢配合。
+
 # GCR-Net
 Code for "GCR-Net: 3D Graph Convolution-based Residual Network for Robust Reconstruction in Cerenkov Luminescence Tomography"
 
